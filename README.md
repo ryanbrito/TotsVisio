@@ -1,63 +1,29 @@
-# Projeto de Tratamento de Dados CSV
+![Application Banner](README/capa-readme.png)
+<div align="left" style="margin-top: -1%">
+    <a href="https://www.python.org/">
+        <image src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    </a>
+    <a href="https://flask.palletsprojects.com/en/2.3.x/">
+        <image src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+    </a>
+    <a href="https://www.sqlite.org/index.html">
+        <image src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    </a>
+    <a href="https://www.w3.org/html/">
+        <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    </a>
+    <a href="https://matplotlib.org/">
+        <image src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+    </a>
+    <a href="https://pandas.pydata.org/">
+        <image src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    </a>
+</div>
 
-Este projeto realiza o tratamento automático de 24 arquivos de dados, incluindo clientes, NPS, tickets e telemetria. Ele lê os arquivos originais, aplica correções de formatação, converte tipos de dados, remove duplicatas e gera arquivos tratados prontos para uso.
+# TotsVisio - FIAP Enterprise Challenge 2025 - Grupo GPT
+## Assista ao nosso Pitch aqui: 
+![TotsVisio - Pitch Enterprise Challenge 2025 - FIAP - Grupo GPT - Grupo GPT](https://www.youtube.com/watch?v=e8K8D2V4Dvs)
 
-## 📂 Estrutura de Pastas
-```
-projeto_tratamento_csv/
-│   main.py
-│   tratamento.py (ou script com funções)
-│   requirements.txt
-│   README.md
-└── dados_originais/
-└── dados_tratados/
-```
+## Descrição do Projeto:
 
----
-
-## ⚙️ Pré-requisitos
-- Python 3.8 ou superior instalado.
-- Biblioteca **pandas** instalada.
-
-Instale as dependências executando:
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 Como Usar
-1. Coloque todos os **24 arquivos originais** (CSV/XLSX) na pasta `dados_originais`.
-2. Abra o terminal no VS Code (ou prompt de comando) na pasta do projeto.
-3. Execute o script principal:
-```bash
-python main.py
-```
-4. Os arquivos tratados serão salvos em `dados_tratados` com o prefixo `tratado_`.
-
----
-
-## 🗂️ Arquivos Processados
-- clientes_desde (1).csv
-- contratacoes_ultimos_12_meses.csv
-- dados_clientes.csv
-- dicionario.xlsx
-- historico.csv
-- mrr.csv
-- nps_relacional.csv
-- nps_transacional_aquisicao.csv
-- nps_transacional_implantacao.csv
-- nps_transacional_onboarding.csv
-- nps_transacional_produto.csv
-- nps_transacional_suporte.csv
-- tickets.csv
-- telemetria_1.csv até telemetria_11.csv
-
----
-
-## ✅ Resultado
-- Nomes de colunas padronizados.
-- Datas convertidas para formato datetime.
-- Valores numéricos corrigidos (vírgula → ponto).
-- Duplicatas removidas.
-- Arquivos tratados em UTF-8 prontos para análise.
+## Quem somos:
