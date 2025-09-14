@@ -1,6 +1,4 @@
 __pycache__/
 *.pyc
-dados_originais/
-dados_tratados/
 *.csv
 *.xlsx
