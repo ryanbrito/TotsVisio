@@ -1,24 +1,24 @@
 ![Application Banner](README/capa-readme.png)
 <div align="left" style="margin-top: -1%">
-    <a href="https://azure.microsoft.com/">
+    <a href="https://azure.microsoft.com/" target="_blank">
         <image src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
     </a>
-    <a href="https://jupyter.org">
+    <a href="https://jupyter.org" target="_blank">
         <image src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
     </a>
-    <a href="https://www.python.org/">
+    <a href="https://www.python.org/" target="_blank">
         <image src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     </a>
-    <a href="https://scikit-learn.org/stable">
+    <a href="https://scikit-learn.org/stable" target="_blank">
         <image src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     </a>
-    <a href="https://pandas.pydata.org/">
+    <a href="https://pandas.pydata.org/" target="_blank">
         <image src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     </a>
-    <a href="https://matplotlib.org/">
+    <a href="https://matplotlib.org/" target="_blank">
         <image src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
     </a>
-    <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi">
+    <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank">
         <image src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
     </a>
 </div>
